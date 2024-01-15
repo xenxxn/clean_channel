@@ -8,7 +8,7 @@ import lombok.Getter;
 public enum LoginType {
 
   GOOGLE("구글"),
-  ZERO("제로");
+  CLEAN("클린");
 
   private final String description;
 }

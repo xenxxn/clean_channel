@@ -1,7 +1,7 @@
 package com.clean_channel.category.data.entity;
 
-import com.zero_channel.documents.data.entity.Documents;
-import com.zero_channel.global.domain.BaseEntity;
+import com.clean_channel.documents.data.entity.Documents;
+import com.clean_channel.global.domain.BaseEntity;
 import javax.persistence.CascadeType;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

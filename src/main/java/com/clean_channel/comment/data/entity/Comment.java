@@ -1,8 +1,8 @@
 package com.clean_channel.comment.data.entity;
 
-import com.zero_channel.documents.data.entity.Documents;
-import com.zero_channel.global.domain.BaseEntity;
-import com.zero_channel.member.data.entity.Member;
+import com.clean_channel.documents.data.entity.Documents;
+import com.clean_channel.global.domain.BaseEntity;
+import com.clean_channel.member.data.entity.Member;
 import javax.persistence.Entity;
 import javax.persistence.FetchType;
 import javax.persistence.GeneratedValue;

@@ -12,10 +12,10 @@ import springfox.documentation.oas.annotations.EnableOpenApi;
 @EnableJpaAuditing
 @EnableCaching
 @SpringBootApplication
-public class ZeroChannelApplication {
+public class CleanChannelApplication {
 
   public static void main(String[] args) {
-    SpringApplication.run(ZeroChannelApplication.class, args);
+    SpringApplication.run(CleanChannelApplication.class, args);
   }
 
 }
